@@ -36,6 +36,14 @@ The images will be written to the directory `output`.
 python3 main.py data/limited output
 ```
 
+The model has been stored with git lfs and should be cloned automatically. Alternatively, if the bandwidth limit of git lfs has been exceeded, you can download the model with:
+
+```
+wget https://asdf10.com/model1.pth -o model.pth
+```
+
+It's SHA256 checksum is `ac43bf074b2756f07b995284c50ccda9a2f1d17d8be38ea0e84609501bc5230a`.
+
 You can then run the following command to compute the mean score on the subsampled dataset.
 
 ```
