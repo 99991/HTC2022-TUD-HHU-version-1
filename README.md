@@ -3,6 +3,7 @@
 Thomas Germer<sup>1</sup>, Jan Robine<sup>2</sup>, Sebastian Konietzny<sup>2</sup>, Stefan Harmeling<sup>2</sup>, Tobias Uelwer<sup>2</sup>
 
 <sup>1</sup> Department of Computer Science, Heinrich Heine University Düsseldorf, Germany
+
 <sup>2</sup> Department of Computer Science, Technical University Dortmund, Germany
 
 This is a submission to the Helsinki Tomography Challenge 2022.
