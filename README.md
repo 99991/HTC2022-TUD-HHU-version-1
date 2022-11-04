@@ -43,4 +43,11 @@ python3 main_compute_score.py output
 
 # Examples
 
-TODO(examples)
+| Angles |         Limited sinogram                    |         Prediction                    | Ground truth |
+|:----:|:-----------------------------------:|:------------------------------------:|:------------------------------------:|
+| 61° |![](data/limited_png/tb_opening_angle_030_starting_angle_000.png)|![](expected_output/tb_opening_angle_030_starting_angle_000.png)|![](data/htc2022_tb_full_recon_fbp_seg.png)|
+| 61° |![](data/limited_png/tc_opening_angle_030_starting_angle_000.png)|![](expected_output/tc_opening_angle_030_starting_angle_000.png)|![](data/htc2022_tc_full_recon_fbp_seg.png)|
+| 61° |![](data/limited_png/td_opening_angle_030_starting_angle_000.png)|![](expected_output/td_opening_angle_030_starting_angle_000.png)|![](data/htc2022_td_full_recon_fbp_seg.png)|
+| 61° |![](data/limited_png/ta_opening_angle_030_starting_angle_000.png)|![](expected_output/ta_opening_angle_030_starting_angle_000.png)|![](data/htc2022_ta_full_recon_fbp_seg.png)|
+| 181° |![](data/limited_png/ta_opening_angle_090_starting_angle_000.png)|![](expected_output/ta_opening_angle_090_starting_angle_000.png)|![](data/htc2022_ta_full_recon_fbp_seg.png)|
+| 61°, start 240° |![](data/limited_png/ta_opening_angle_090_starting_angle_240.png)|![](expected_output/ta_opening_angle_090_starting_angle_240.png)|![](data/htc2022_ta_full_recon_fbp_seg.png)|
