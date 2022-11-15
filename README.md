@@ -27,7 +27,7 @@ To install:
 pip3 install -r requirements.txt
 ```
 
-We were able to install all dependencies with both Python 3.8.10 and Python 3.9.2, but other versions might work as well.
+We were able to install all dependencies with both Python 3.8.10, 3.9.2 and 3.10.6 on Ubuntu 20.04 and 22.04, but other versions and similar operating systems might work as well.
 
 # Usage instructions
 
