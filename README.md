@@ -27,6 +27,8 @@ To install:
 pip3 install -r requirements.txt
 ```
 
+We were able to install all dependencies with both Python 3.8.10 and Python 3.9.2, but other versions might work as well.
+
 # Usage instructions
 
 Use the following command to generate images from subsampled sinograms in the directory `data/limited`.
