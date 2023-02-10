@@ -20,7 +20,7 @@ def main(full_limited_data=False):
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model = Model().to(device)
-    model.load_state_dict(torch.load(model_path))
+    model.load_state_dict(torch.load(model_path, map_location=device))
     model.eval()
 
     pathlib.Path(output_folder).mkdir(exist_ok=True, parents=True)
