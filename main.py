@@ -64,6 +64,8 @@ def main(full_limited_data=False):
 
             # PyTorch to NumPy
             prediction = prediction.cpu().numpy()
+            output_path = pathlib.Path(output_folder) / path.name.replace(".mat", ".npy")
+            np.save(output_path, prediction)
 
             # Threshold prediction to get a binary mask
             prediction = prediction > prediction.mean()
