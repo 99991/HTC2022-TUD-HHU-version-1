@@ -1,3 +1,11 @@
+```diff
+- This repository regularly exceeds GitHub's (very small) bandwidth quota.
+- If possible, please download from one of the links below instead of cloning the repository.
+```
+
+* Download ➔ https://uni-duesseldorf.sciebo.de/s/examkbpuy4Jj8lE
+* Mirror ➔ https://drive.google.com/file/d/1mfjbBdKHEyK7FvjpZnBGyI7vOw-MMsFJ
+
 # [Helsinki Tomography Challenge 2022](https://www.fips.fi/HTC2022.php) -  [Technical University Dortmund](https://www.tu-dortmund.de) & [Heinrich Heine University Düsseldorf](https://www.hhu.de/)
 
 Thomas Germer<sup>1</sup>, Jan Robine<sup>2</sup>, Sebastian Konietzny<sup>2</sup>, Stefan Harmeling<sup>2</sup>, Tobias Uelwer<sup>2</sup>
