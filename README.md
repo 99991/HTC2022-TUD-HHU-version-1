@@ -1,9 +1,11 @@
 ```diff
 - This repository regularly exceeds GitHub's (very small) bandwidth quota.
 - If possible, please download from one of the links below instead of cloning the repository.
+- UPDATE: We are still regularly over quota. Therefore, the file "model.pth" and the files "data/limited/*.mat" have been removed from this repository. To download the full repository, use one of the links below instead.
 ```
 
 * Download ➔ https://uni-duesseldorf.sciebo.de/s/examkbpuy4Jj8lE
+* Mirror ➔ https://dbs.cs.uni-duesseldorf.de/research/HTC/HTC2022-TUD-HHU-version-2024-01-08.zip
 * Mirror ➔ https://drive.google.com/file/d/1mfjbBdKHEyK7FvjpZnBGyI7vOw-MMsFJ
 
 # [Helsinki Tomography Challenge 2022](https://www.fips.fi/HTC2022.php) -  [Technical University Dortmund](https://www.tu-dortmund.de) & [Heinrich Heine University Düsseldorf](https://www.hhu.de/)
